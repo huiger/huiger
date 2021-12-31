@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **huiger/huiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+| <a href="https://github.com/huiger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huiger&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/huiger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiger&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
