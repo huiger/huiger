@@ -9,7 +9,7 @@
 <p align="center"> 
   <br>
  当前访问 / Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/FlechazoPh/count.svg" /><label align="center"> <u> times </u></label>
+  <img src="https://profile-counter.glitch.me/huiger/count.svg" /><label align="center"> <u> times </u></label>
 </p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=huiger&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiger&layout=compact&theme=buefy&hide_border=true" /> |
