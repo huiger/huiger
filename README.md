@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <br>
- 当前访问 / Visitor count<br><br>
+当前访问 / Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/huiger/count.svg" /><label align="center"> <u> times </u></label>
 </p>
 
